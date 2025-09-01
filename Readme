@@ -1,0 +1,28 @@
+**Memory Match Game**:
+Memory Match is a classic card-flipping game developed using modern design principles. The aim is to test players' memory skills by finding matching pairs of cards from a shuffled deck. Performance is tracked via moves and time, allowing players to challenge themselves and improve.
+
+Game Overview:
+
+1. Objective: Flip cards to reveal their faces and find matching pairs. Complete the board with the fewest possible moves and in the shortest time.
+
+2. Difficulty Levels: Choose from Easy (4x4 grid, 8 pairs), Medium (6x6 grid, 18 pairs), or Hard (8x8 grid, 32 pairs).
+
+3. Progress Tracking: The game tracks the number of moves taken and time elapsed for each session.
+
+4. Modern User Interface: The interface features smooth color gradients and clear navigation for an engaging experience.
+
+How It Works:
+
+1. On starting the game, select a difficulty level that determines the grid size and total pairs.
+
+2. The game board displays face-down cards arranged in the chosen grid.
+
+3. Flip two cards by tapping them; if they match, they remain revealed. If not, they are flipped back.
+
+4. Continue matching pairs until all cards are revealed.
+
+5. The moves counter and timer help monitor progress and efficiency.
+
+License and Credits:
+
+This project is created as part of an Internshala assignment. All assets and code are original or appropriately sourced for educational use.
